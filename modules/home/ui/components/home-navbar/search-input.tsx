@@ -1,7 +1,4 @@
 import { SearchIcon } from "lucide-react";
-import React from "react";
-
-// type Props = {};
 
 export const SearchInput = ({}) => {
   //TODO: Add search functionality
